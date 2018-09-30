@@ -4,7 +4,7 @@ A simple web crawler for dynamic websites (specifically Lazada.sg)
 For Windows 10
 1. Dowload Python 3 onto your computer and set the environment variables (Google for this if you are unsure of what to do).
 
-2. Go to Command Prompt (This can be done by clicking on the "magnifying glass" icon, type in "cmd" and then press "Enter" key).
+2. Go to Command Prompt (This can be done by clicking on the "magnifying glass" icon on the task bar, type in "cmd" and then press "Enter" key).
 
 3. In the Command Prompt, type in:
 ```
