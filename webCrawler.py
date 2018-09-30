@@ -1,6 +1,5 @@
 from selenium import webdriver
 from bs4 import BeautifulSoup
-import csv
 
 driver = webdriver.Chrome()
 driver.get('https://www.lazada.sg/catalog/?q=shampoo')
